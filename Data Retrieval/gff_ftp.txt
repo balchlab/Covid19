@@ -1,0 +1,2 @@
+wget -r -l1 -N -nH -nd ftp://download.big.ac.cn/GVM/Coronavirus/gff3/
+wget -r -l1 -N -nH -nd ftp://download.big.ac.cn/GVM/Coronavirus/gff3/a/
