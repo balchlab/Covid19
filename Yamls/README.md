@@ -1,0 +1,1 @@
+Can create the same environment with libraries following the instructions at: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file
