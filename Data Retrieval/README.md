@@ -1,0 +1,1 @@
+CNCB FTP server interface. Shows the base directory and each subdirectory (a,b,c,...). Can manually check the server update dates to see if new files need to be parsed without having to run. Eventually could set a scheduler or Cron job type of application to automatically refresh server data.
